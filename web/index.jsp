@@ -14,22 +14,22 @@
                 <tbody>
                     <tr>
                         <td>Hours Worked:</td>
-                        <td><input type="text" name="workh" value="" size="50"></td>
+                        <td><input type="text" name="workh" value="" size="50" required></td>
                     </tr>
                     
                     <tr>
                         <td>Hourly Pay:</td>
-                        <td><input type="text" name="payr" value="" size="50"></td>
+                        <td><input type="text" name="payr" value="" size="50" required></td>
                     </tr>
                     
                     <tr>
                         <td>Pre-tax Deduct:</td>
-                        <td><input type="text" name="d1" value="" size="50"></td>
+                        <td><input type="text" name="d1" value="" size="50" required></td>
                     </tr> 
                     
                     <tr>
                         <td>Post-tax Deduct:</td>
-                        <td><input type="text" name="d2" value="" size="50" required></td>
+                        <td><input type="text" name="d2" value="" size="50"required></td>
                     </tr>
                 </tbody>
             </table>
